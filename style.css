@@ -1,0 +1,24 @@
+
+
+body {
+  background-color:dodgerblue;
+  
+}
+h1{
+  text-align: center;
+}
+#MenuBar{
+  background-color: black;
+  text-align: center;
+}
+
+.button {
+  width: 49%;
+  font-size: 25px;
+  color:white;
+  background-color:black
+}
+
+.photo{
+  display: none;
+}
