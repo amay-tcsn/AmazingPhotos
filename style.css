@@ -23,3 +23,7 @@ h1{
 .photo{
   display: none;
 }
+
+#Pictures{
+  text-align: center;
+}
